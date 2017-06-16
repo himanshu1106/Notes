@@ -1,0 +1,565 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"script"
+			],
+			[
+				"save",
+				"saveinternalmarks"
+			],
+			[
+				"ma",
+				"max_marks"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"imc_sa",
+				"imc_save6"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"mys",
+				"mysql_error"
+			],
+			[
+				"final",
+				"final_ta"
+			],
+			[
+				"INS",
+				"INSERT"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"o",
+				"order"
+			],
+			[
+				"or",
+				"orders"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"cu",
+				"customer"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"F",
+				"Fno"
+			],
+			[
+				"dt",
+				"datano"
+			],
+			[
+				"data",
+				"datano"
+			],
+			[
+				"run",
+				"run3"
+			],
+			[
+				"compl",
+				"complaints"
+			],
+			[
+				"ech",
+				"Echo"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"Foll",
+				"followup"
+			],
+			[
+				"co",
+				"complications"
+			],
+			[
+				"n",
+				"nyha"
+			],
+			[
+				"com",
+				"complaints"
+			],
+			[
+				"coml",
+				"complications"
+			],
+			[
+				"cat",
+				"cathinter"
+			],
+			[
+				"me",
+				"medtreat"
+			],
+			[
+				"h",
+				"hemogram"
+			],
+			[
+				"comp",
+				"complaints"
+			],
+			[
+				"DA",
+				"date"
+			],
+			[
+				"statu",
+				"status17"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"proj",
+				"project_status"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"Sta",
+				"Status"
+			],
+			[
+				"Na",
+				"Name"
+			],
+			[
+				"aj",
+				"ajax_edit_obj"
+			],
+			[
+				"genera",
+				"generalId"
+			],
+			[
+				"po",
+				"POST"
+			],
+			[
+				"gen",
+				"generalId"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"edit",
+				"editcons"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"sta",
+				"startdate"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"U",
+				"UPDATE"
+			],
+			[
+				"mysql_",
+				"mysql_query"
+			],
+			[
+				"bor",
+				"board"
+			],
+			[
+				"y",
+				"year"
+			],
+			[
+				"schoo",
+				"school"
+			],
+			[
+				"ge",
+				"gen_qual_id"
+			],
+			[
+				"fac",
+				"faculty_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/cut files/.env",
+		"/C/xampp/htdocs/testing/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/testing/resources/views/name.blade.php",
+		"/C/xampp/htdocs/testing/routes/web.php",
+		"/C/xampp/htdocs/testing/resources/views/layouts/Design.blade.php",
+		"/C/xampp/htdocs/testing/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/testing/app/Http/Controllers/Usercontroller.php",
+		"/F/Moodle.working/server/moodle/marks-16-17/php/imc_save6_1.php",
+		"/F/Moodle.working/server/moodle/marks-16-17/php/add_record.php",
+		"/F/Moodle.working/server/moodle/marks-16-17/php/imc_save6.php",
+		"/F/Moodle.working/server/moodle/marks-16-17/php/check_oe.php",
+		"/F/Moodle.working/server/moodle/marks-16-17/php/imc_2.php",
+		"/F/Moodle.working/server/moodle/marks-16-17/php/imc_admin.php",
+		"/C/xampp/htdocs/tet/GOblet.html",
+		"/F/Moodle.working/server/moodle/attendance_even15_test/savestudent.php",
+		"/F/Moodle.working/server/moodle/marks-16-17/php/connect.php",
+		"/F/Moodle.working/server/moodle/attendance_even15_test/db.inc",
+		"/F/Moodle.working/server/moodle/login/index.php",
+		"/C/xampp/htdocs/testing/resources/views/Homepage.blade.php",
+		"/F/Moodle.working/server/moodle/login/signup.php",
+		"/C/xampp/htdocs/tet/test2.php",
+		"/F/Moodle.working/server/moodle/login/signup_form.php",
+		"/C/xampp/htdocs/testing/resources/views/includes/header.blade.php",
+		"/C/xampp/htdocs/testing/resources/views/Project.blade.php",
+		"/C/xampp/htdocs/testing/app/Orders.php",
+		"/C/Users/dell 5559/Downloads/WhatsApp Chat with Akarsh.txt",
+		"/C/xampp/htdocs/testing/app/User.php",
+		"/C/xampp/htdocs/testing/.env",
+		"/C/xampp/htdocs/testing/resources/views/home.blade.php",
+		"/C/xampp/htdocs/testing/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/testing/vendor/symfony/routing/RouteCollection.php",
+		"/C/xampp/htdocs/testing/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/testing/app/Customer.php",
+		"/C/xampp/htdocs/attendance-16-17/generateall.php",
+		"/C/xampp/htdocs/attendance-16-17/addSub.php",
+		"/C/xampp/htdocs/testing/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php",
+		"/C/xampp1/htdocs/Create/Form.php",
+		"/C/xampp1/htdocs/New year/one.php",
+		"/C/xampp1/htdocs/medical/followup.php",
+		"/C/xampp1/htdocs/medical/searchfup.php",
+		"/C/xampp1/htdocs/medical/view1.php",
+		"/C/xampp1/htdocs/medical/design.php",
+		"/C/xampp1/htdocs/medical/data.php",
+		"/C/xampp1/htdocs/medical/view2.php",
+		"/C/xampp1/htdocs/medical/viewall.php",
+		"/F/Faculty portal/facultynew/php/achievement_wise_director.php",
+		"/F/Moodle.working/server/moodle/attendance_even15_test/assign_ad.php",
+		"/F/Moodle.working/server/moodle/attendance_even15_test/showsecadm.php",
+		"/F/Moodle.working/server/moodle/facultynew/php/addnew.php",
+		"/F/Moodle.working/server/moodle/facultynew/php/view_faculty2.php",
+		"/F/Moodle.working/server/moodle/facultynew/php/ajax_edit_obj.php",
+		"/F/Moodle.working/server/moodle/facultynew/php/edit_faculty.php",
+		"/F/Moodle.working/server/moodle/facultynew/php/edittech.php",
+		"/F/Moodle.working/server/moodle/facultynew/php/savetech.php",
+		"/F/Moodle.working/server/moodle/facultynew/php/editphd.php",
+		"/F/Moodle.working/server/moodle/facultynew/php/editcons.php",
+		"/F/Moodle.working/server/moodle/facultynew/php/editphdg.php",
+		"/F/Moodle.working/server/moodle/facultynew/php/savegen.php",
+		"/F/Moodle.working/server/moodle/facultynew/php/editgen.php",
+		"/F/Moodle.working/server/moodle/attendance_even15_test/showseme.php",
+		"/F/Moodle.working/server/moodle/attendance_even15_test/showfacadm.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<?",
+			"_GET",
+			"_POST",
+			"POST",
+			"$_POST",
+			"update_marks",
+			"Director",
+			"director",
+			"max_marks",
+			"isset",
+			"subjectid",
+			"DISPLAY",
+			"GENERATE",
+			"id",
+			"id=",
+			"DISPLAY",
+			"username",
+			"(){});\n",
+			"`",
+			"form",
+			" value=''",
+			"compla",
+			"com",
+			"fac",
+			"Achievements/A",
+			"Achievement",
+			"COnsultancy",
+			"interna",
+			"edit_obj",
+			"objx",
+			"object3",
+			"edit_obj",
+			"edit_o",
+			"edit_obj",
+			"edit_ob",
+			"department",
+			"form",
+			"ADD NEW",
+			"ADD NEW'",
+			"ADD NEW",
+			"Genera",
+			"add_gen_",
+			"add_gen",
+			"addi",
+			"general",
+			"add",
+			"blah",
+			"add_gen_(",
+			"ditco",
+			"savecons",
+			"editcons",
+			"Consultancy",
+			"Consultancy Pr",
+			"Phd Guided",
+			"add7",
+			"tech",
+			"editphdg",
+			"phd gui",
+			"semsec",
+			"editge",
+			"editgen",
+			"General",
+			"editgen",
+			"editen",
+			"General",
+			"getit",
+			"cleartxt",
+			"upd",
+			"update",
+			"select",
+			"editgen",
+			"editge",
+			"\"",
+			";?>",
+			"<?php echo ",
+			"editgen",
+			";?>",
+			"<?php echo",
+			"<?php",
+			"\"",
+			"editgen",
+			"General",
+			"general",
+			"sub_gen"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_POST",
+			"_GET",
+			"",
+			"'",
+			".\"",
+			"\".",
+			"",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "welcome.blade.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web",
+				"routes\\web.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
